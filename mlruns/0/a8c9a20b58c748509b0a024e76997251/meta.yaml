@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/a8c9a20b58c748509b0a024e76997251/artifacts
+end_time: 1752930747502
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a8c9a20b58c748509b0a024e76997251
+run_name: serious-boar-390
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752930719438
+status: 4
+tags: []
+user_id: hp
