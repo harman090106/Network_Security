@@ -1,0 +1,6 @@
+[ 2025-08-03 19:55:10,883 ] 1026 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-08-03 19:55:10,903 ] 107 dagshub - INFO - Accessing as harman090106
+[ 2025-08-03 19:55:12,854 ] 1026 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/repos/harman090106/Network_Security "HTTP/1.1 200 OK"
+[ 2025-08-03 19:55:14,864 ] 1026 httpx - INFO - HTTP Request: GET https://dagshub.com/api/v1/user "HTTP/1.1 200 OK"
+[ 2025-08-03 19:55:14,878 ] 107 dagshub - INFO - Initialized MLflow to track repo "harman090106/Network_Security"
+[ 2025-08-03 19:55:14,880 ] 107 dagshub - INFO - Repository harman090106/Network_Security initialized!
